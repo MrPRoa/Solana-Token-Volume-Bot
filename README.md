@@ -1,5 +1,12 @@
 ## 🚀 Solana Token Volume Bot — Windows EXE
 
+<img width="1710" height="981" alt="image" src="https://github.com/user-attachments/assets/324a07f8-e549-42d9-a6e0-5a778cbc855a" />
+
+<img width="1897" height="1029" alt="image" src="https://github.com/user-attachments/assets/d08ff4be-e697-4af7-9e88-995ddc8f1564" />
+
+<img width="1901" height="1018" alt="image" src="https://github.com/user-attachments/assets/f49a1d68-9724-4b27-af79-c8205d76d751" />
+
+
 A modern desktop app for managing Solana wallets and boosting the trading volume of your token. Works as a lightweight market maker: gently creates turnover, supports liquidity, and helps form market activity without manual routine. Suitable for strategy testing, monitoring, and automation of routine actions (SOL/WSOL distribution, buy/sell via DEX aggregator).
 
 ### 🎯 Use Cases
